@@ -8,6 +8,6 @@ Instructions for use:
  
 ![Send request](/images/request.png)
 
-![Receive request](/images/response.png)
+![Receive request](/images/respond.png)
 
 ![UML Sequence](/images/uml.png)
