@@ -9,6 +9,7 @@ responder.on("message", function (request) {
 
   setTimeout(function () {
     // Replace "Fred" with generated name
+    // Sends response
     responder.send("Fred");
   }, 1000);
 });

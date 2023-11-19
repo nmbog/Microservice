@@ -17,6 +17,7 @@ requester.on("message", function (reply) {
 requester.connect("tcp://localhost:5555");
 
 console.log("Sending request...");
+// Make request for generated name
 requester.send("Please provide generated name");
 
 process.on("SIGINT", function () {
